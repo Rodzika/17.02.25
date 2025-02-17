@@ -50,4 +50,4 @@ def rootFinder(a=0,b=0,c=0):
 s1,s2 = rootFinder(3,4,5)
 print(s1,s2)
 
-
+y = (2 x + 3)/0.5
